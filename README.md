@@ -2,6 +2,7 @@
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/pydanny/cookiecutter-django/)
 
+_Stores and provides encryption keys for encrypted TV playback_
 
 ## Development Setup
 
